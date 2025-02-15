@@ -23,7 +23,7 @@ I'm Mostafa, a dedicated **Computer Science student** and passionate **backend d
 
 - **Programming Languages:** Java, C++, Python, SQL, Bash
 - **Concepts:** OOP, DSA, Software Engineering principles
-- **Tools:** VSCode, IntelliJ, Obsidian, SQLTools, OpenCV
+- **Tools:** VSCode, IntelliJ, Obsidian, SQLTools
 - **Operating System:** Ubuntu 22 with GNOME desktop environment
 
 ## 🏆 Competitive Programming Profiles
