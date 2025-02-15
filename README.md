@@ -31,9 +31,9 @@ I'm Mostafa, a dedicated **Computer Science student** and passionate **backend d
 I actively participate in contests to strengthen my algorithmic thinking.
 
 - ![CodeForces](https://img.shields.io/badge/CodeForces-%230066CC.svg?&style=for-the-badge&logo=codeforces&logoColor=white) [CodeForces](https://codeforces.com/profile/Mustafa_1655)
-- ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white) [LeetCode](https://leetcode.com/u/mn1650/) *(also solving problems with SQL)*
+- ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white) [LeetCode](https://leetcode.com/u/mn1650/) *
 - ![VJudge](https://img.shields.io/badge/VJudge-%234CAF50.svg?&style=for-the-badge&logo=vjudge&logoColor=white) [VJudge](https://vjudge.net/user/mblackphoton1650)
-- ![AtCoder](https://img.shields.io/badge/AtCoder-%237D4698.svg?&style=for-the-badge&logo=atcoder&logoColor=white) [AtCoder](https://atcoder.jp/users/mostafa615) *(Weekly participation every Saturday at 3:00 PM)*
+- ![AtCoder](https://img.shields.io/badge/AtCoder-%237D4698.svg?&style=for-the-badge&logo=atcoder&logoColor=white) [AtCoder](https://atcoder.jp/users/mostafa615) *
 
 ## 🌐 Open Source & Community Involvement
 
