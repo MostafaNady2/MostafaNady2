@@ -28,16 +28,6 @@
 
 ---
 
-## 💻 Projects
-
-### Student Course Management System
-`Java` `OOP` `Console App` `in Progress`
-- Developed core functionality for academic management
-- **Current Development:** Implementing file persistence → SQL Server integration
-- **Learning Path:** Memory management → File I/O → Database systems
-
----
-
 ## 🏆 Competitive Programming
 
 - I actively participate in contests to strengthen my algorithmic thinking.
@@ -56,11 +46,6 @@
 *While pursuing BSc in Electronic Engineering at Menoufia University (Expected 2026)*  
 ✔️ Completed: Git/GitHub, SQL Server Fundamentals  
 📚 Current Focus: Advanced DSA, System Architecture  
-
-**Recent Milestones**  
-• Implemented core data structures in C++/Java  
-• Designed relational database schemas  
-• Automated workflows with Bash scripting
 
 ---
 
