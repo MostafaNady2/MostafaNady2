@@ -20,12 +20,6 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?logo=intellij-idea&logoColor=white)
 
-**Core Concepts**  
-• Object-Oriented Programming (OOP)  
-• Data Structures & Algorithms (DSA)  
-• Database Design Fundamentals  
-• Software Engineering Principles
-
 ---
 
 ## 🏆 Competitive Programming
