@@ -1,4 +1,6 @@
-![gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFobDlybmt1Z3Jxb2k3bnJvazI4ZzF5d3BkeHVwOGVoMzBqd2I4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFobDlybmt1Z3Jxb2k3bnJvazI4ZzF5d3BkeHVwOGVoMzBqd2I4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Mostafa Nady</h1>
 <h3 align="center">Computer Science Enthusiast | Backend Developer | Competitive Programmer</h3>
