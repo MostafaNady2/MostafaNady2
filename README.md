@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Cursor-5A42F1?style=for-the-badge" alt="Cursor" style="cursor: pointer;" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=white" alt="Obsidian" />
 </p>
